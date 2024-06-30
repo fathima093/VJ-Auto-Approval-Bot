@@ -18,17 +18,17 @@ app = Client(
 )
 
 gif = [
-    'https://te.legra.ph/file/a1b3d4a7b5fce249902f7.mp4',
-    'https://te.legra.ph/file/0c855143a4039108df602.mp4',
-    'https://te.legra.ph/file/d7f3f18a92e6f7add8fcd.mp4',
-    'https://te.legra.ph/file/9e334112ee3a4000c4164.mp4',
-    'https://te.legra.ph/file/652fc39ae6295272699c6.mp4',
-    'https://te.legra.ph/file/702ca8761c3fd9c1b91e8.mp4',
-    'https://te.legra.ph/file/a1b3d4a7b5fce249902f7.mp4',
-    'https://te.legra.ph/file/d7f3f18a92e6f7add8fcd.mp4',
-    'https://te.legra.ph/file/0c855143a4039108df602.mp4',
-    'https://te.legra.ph/file/9e334112ee3a4000c4164.mp4',
-    'https://te.legra.ph/file/702ca8761c3fd9c1b91e8.mp4'
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4',
+    'https://telegra.ph/file/3fabc41c11913b79d9847.mp4'
 ]
 
 
